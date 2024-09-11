@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello bhai!!";
+    cout<<"Hello bhai!! tamatar bade majedar";
     return 0;
 }
